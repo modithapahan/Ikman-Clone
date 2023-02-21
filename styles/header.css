@@ -45,6 +45,7 @@
 
 .add {
   margin-right: 24px;
+  cursor: pointer;
 }
 
 .add p {
@@ -213,11 +214,6 @@
 
   .chat {
     margin-right: none;
-  }
-
-  .chat svg,
-  .login svg {
-    cursor: pointer;
   }
 
   .chat p,

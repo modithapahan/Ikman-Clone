@@ -98,6 +98,7 @@
 .chat svg {
   width: 35px;
   fill: white;
+  cursor: pointer;
 }
 
 .login {
@@ -110,6 +111,7 @@
 .login svg {
   width: 35px;
   fill: white;
+  cursor: pointer;
 }
 
 .chat,
@@ -151,16 +153,19 @@
   background-color: #10846f;
   padding: 5px 15px 9px 15px;
   border-radius: 30px;
+  cursor: pointer;
 }
 
 .location-content i {
   font-size: 18px;
   margin-right: 2px;
   margin-top: 3px;
+  cursor: pointer;
 }
 
 .location-content label {
   font-weight: 400;
+  cursor: pointer;
 }
 
 .search {
@@ -196,6 +201,7 @@
   position: absolute;
   top: 4px;
   right: 3px;
+  cursor: pointer;
 }
 
 @media (max-width: 850px) {
